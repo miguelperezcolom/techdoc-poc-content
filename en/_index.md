@@ -16,7 +16,7 @@ linkTitle : "POC Tech Doc"
 - integrate doc from code (e.g. openapi, c#, ...)
 - printer friendly
 - searchable
-- include content folder as a git submodule / from several sources
+- include content folder as a git submodule / from several sources (push should trigger site build)
 
 ## Pending
 
