@@ -4,6 +4,7 @@ linkTitle : "POC Tech Doc"
 
 ---
 
+This is a POC for using Hugo as the tech doc tool
 
 ## Requisites for tech doc platform
 
