@@ -30,6 +30,8 @@ The main features / functionalities / responsabilities of the Hub are:
 - Aggregate (and possibly filter) results
 - Reverse map any provider code (when needed)
 - Translate and complete responses (e.g. with data from POC Places)
+- Filter results
+- Apply markup
 - Measure performance and business values so further analysis can be done
 
 ##  The translators
