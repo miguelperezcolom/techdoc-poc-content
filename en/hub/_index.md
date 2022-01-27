@@ -12,8 +12,6 @@ description: >
 
 The POC Hub aims to simplify and standarize the integrations with **own** and **third party** product providers (e.g. hotel providers, flight GDSs, ...). That way we should be able to add new providers to POC in a very simple and predictable way (i.e. by creating an API which implements our interface). 
 
-bla bla bla
-
 At the end, we are in fact moving all the integrations and product logic out of the POC website (a.k.a. the monolith).
 
 ![](hub1.png)
